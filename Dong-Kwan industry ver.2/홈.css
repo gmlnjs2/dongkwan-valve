@@ -1,0 +1,70 @@
+body{
+font-family: Verdana, Geneva, Arial, sans-serif;
+font-size: Small;
+    background-color:white;
+    }
+    
+#header{
+    background: top center;
+    background-repeat: no-repeat;
+    font-size: 300%;
+  
+    width:auto;
+    height:auto;
+    text-align:center;
+}
+nav ul{
+    margin:0px;
+    padding: 10px 10px 10px 10px;
+    list-style-type:none;
+    text-align:center;
+        
+}
+nav ul li{
+    font-size:120%;
+    display:inline;
+    border-bottom:none;
+    border-top:none;
+    font-weight:bold;
+    padding: 20px 20px 20px 20px;
+}
+h2{
+    font-size:250%;
+    color:cadetblue;
+    text-align:center;
+    
+}
+#main {
+    text-align:center;
+    margin:auto;
+    padding:100px 30px 30px 30px;
+}
+
+#main2{
+    text-align:center;
+    margin: auto;
+    padding:100px 30px 30px 30px;
+}
+#patent {
+    font-size: 150%;
+    color:white;
+    text-align: center;
+    
+    
+}
+
+#footer{
+    color:gray;
+    font-size:30%;
+    text-align:center;
+    padding:15px
+        margin:10px;
+
+    
+}
+#footer2{
+    color:gray;
+    font-size:40%;
+        text-align:center;
+    padding:15px
+        margin:10px;

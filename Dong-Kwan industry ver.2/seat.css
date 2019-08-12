@@ -1,0 +1,44 @@
+body{
+font-family: Verdana, Geneva, Arial, sans-serif;
+font-size: Small;
+    background-color:white;
+    }
+#header{
+    font-size:250%;
+    color:cadetblue;
+    text-align:center;
+    padding: 20px;
+    margin: none;
+}
+h1{
+    font-size:180%
+    
+}
+
+h2{
+    font-size: 80%;
+    color:powderblue;
+    padding:20px;
+    font-weight: bold;
+    text-align:center;
+}
+
+p{
+    font-size: 50%;
+    text-align:left;
+    padding:10px;
+    color:powderblue;
+}
+
+h3{
+    font-size:180%;
+    color:powderblue;
+    text-align:center;
+    padding:20px;
+}
+li{
+    font-size:60%;
+    color:cornflowerblue;
+    text-align:left;
+    padding:10px 20px 20px 20px;
+}

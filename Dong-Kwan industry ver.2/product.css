@@ -1,0 +1,35 @@
+body{
+font-family: Verdana, Geneva, Arial, sans-serif;
+font-size: Small;
+    background-color:white;
+    }
+#header{
+    font-size: 200%;
+    color:cadetblue;
+    text-align:center;
+    padding:20px;
+    margin:none;
+    
+    
+}
+#main1{
+    text-align:center;
+    font-size: 150%;
+    padding:30px,30px,50px,30px;
+    margin:30px;
+}
+#main1p1{
+    text-align:center;
+    font-size: 170%;
+    padding:20px;
+}
+#main1rw{
+    text-align:center;
+    padding:20px 20px 40px 20px;
+    margin:30px;
+    font-size:140%;
+}
+#뒤로가기{
+    text-align: left;
+    font-size:60%;
+}
