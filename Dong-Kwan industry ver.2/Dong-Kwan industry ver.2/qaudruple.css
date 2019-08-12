@@ -1,0 +1,26 @@
+body{
+font-family:
+font-size: small;
+background-color: white;
+
+}
+#header{
+    font-size:200%;
+    color:cadetblue;
+    text-align:center;
+    padding:20px;
+}
+li{
+    font-size:60%;
+    color:skyblue;
+    padding:10px;
+    text-align:left;
+    
+}
+p{
+    
+}
+#뒤로가기{
+    text-align: left;
+    font-size:60%;
+}
